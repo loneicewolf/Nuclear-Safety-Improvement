@@ -39,4 +39,6 @@ This document includes research and references related to high-level concepts fo
 
 ---
 
-Add more research references and details as needed!
+Note to myself:
+- Add more research references and details as needed!
+- add URLS if applicable.
